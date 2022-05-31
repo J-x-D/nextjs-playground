@@ -1,0 +1,25 @@
+{
+  "home": "Home",
+  "table": "Table",
+  "form": {
+    "min": "too short",
+    "max": "too long",
+    "required": "required",
+    "firstname": {
+      "label": "Firstname",
+      "placeholder": "Enter your firstname"
+    },
+    "lastname": {
+      "label": "Lastname",
+      "placeholder": "Enter your lastname"
+    },
+    "age": {
+      "label": "Age",
+      "placeholder": "Enter your age"
+    },
+    "city": {
+      "label": "City",
+      "placeholder": "Enter your city"
+    }
+  }
+}

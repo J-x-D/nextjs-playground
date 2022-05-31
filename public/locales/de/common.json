@@ -1,0 +1,25 @@
+{
+  "home": "Home",
+  "table": "Tabelle",
+  "form": {
+    "min": "Zu kurz",
+    "max": "zu lang",
+    "required": "Muss angegeben werden",
+    "firstname": {
+      "label": "Vorname",
+      "placeholder": "Gib einen Forname ein"
+    },
+    "lastname": {
+      "label": "Nachname",
+      "placeholder": "Gib einen Nachname ein"
+    },
+    "age": {
+      "label": "Alter",
+      "placeholder": "Gib dein Alter ein"
+    },
+    "city": {
+      "label": "Stadt",
+      "placeholder": "Gib dein Stadt ein"
+    }
+  }
+}
